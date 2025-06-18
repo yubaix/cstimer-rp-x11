@@ -26,7 +26,7 @@ You must also first install xdotool with the package manager of your choice.
 9. The presence will update every 5 seconds provided you are on the csTimer tab
 
 
-###### Alias Setup
+###### Alias Setup (Optional)
 This can be done to easily run the script with one command, and is optional.
 1. Edit the paths in alias.sh to fit your setup.
 2. Open ~/.bashrc (or ~/.zshrc, if you use zsh) with the text editor of your choice.
